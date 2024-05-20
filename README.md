@@ -18,7 +18,8 @@ Executing the script provided in the **Crowdfunding_ETL.ipynb** file will:
 ### Entity Relationship Diagram (ERD):
 
 
-![screenshot](https://github.com/riona1224/Crowdfunding_ETL/assets/156146173/50af4bb7-f554-40c1-af7c-f2c67bede43f)
+![screenshot](https://github.com/riona1224/Crowdfunding_ETL/assets/156146173/451258c1-246b-4af3-9ce7-69ccdf04ed52)
+
 
 
 
