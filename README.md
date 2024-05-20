@@ -3,7 +3,7 @@ In this project, we created a ELT (Extract, Transform, and Load) pipeline to ana
 
 
 ## Project Description:
-At project commencement, raw data for each crowdfunding campaign (e.g., company name, fundraising foal, amount pledged, outcome, and number of backers) were contained in the **crowdfunding.xlsx** file. Raw data on each backer (e.g., names and email addresses) were provided  in the **contacts.xlsx** file.
+At project commencement, raw data for each crowdfunding campaign (e.g., company name, fundraising foal, amount pledged, outcome, and number of backers) were contained in the **crowdfunding.xlsx** file. Raw data on each backer (e.g., names and email addresses) were provided  in the **contacts.xlsx** file. These are saved within the **Resources** sub-folder.
 
 
 ## Installation and Run Instructions: 
