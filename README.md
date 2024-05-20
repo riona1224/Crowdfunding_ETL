@@ -15,7 +15,11 @@ Executing the script provided in the **Crowdfunding_ETL.ipynb** file will:
 5. Export this cleaned and transformed DataFrame into the **contacts.csv** file.
 6. Create the **crowdfunding_db** by combining the **category.csv**, **subcategory.csv**, **campaign.csv**, and **contacts.csv** files.
 
-This repo also includes a comprehensive Entity Relationship Diagram (ERD) to visually represent the relationships between these four **.csv** files, named **crowdfunding_ETL_ERD.png**.
+### Entity Relationship Diagram (ERD):
+
+
+![screenshot](https://github.com/riona1224/Crowdfunding_ETL/assets/156146173/50af4bb7-f554-40c1-af7c-f2c67bede43f)
+
 
 
 ## Credits:
