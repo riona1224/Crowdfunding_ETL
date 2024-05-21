@@ -8,7 +8,12 @@ At project commencement, raw data for each crowdfunding campaign (e.g., company 
 
 ## Installation and Run Instructions: 
 Executing the script provided in the **Crowdfunding_ETL.ipynb** file will:
-1. Extract and transform the category and subcategory information contained in the **crowdfunding.xlsx** file into two separate Pandas DataFrames.
+
+### 1. Extract and transform the category and subcategory information contained in the **crowdfunding.xlsx** file into two separate Pandas DataFrames:
+
+
+
+
 2. Export these cleaned and transformed DataFrame into the **category.csv** and **subcategory.csv** files, respectively.
 3. Create a campaign DataFrame and export this into the **campaign.csv** file.
 4. Extract and transform the information from the **contacts.xlsx** file into a Pandas DataFrame
