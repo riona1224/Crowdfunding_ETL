@@ -17,11 +17,7 @@ These are saved within the **Resources** sub-folder.
 ## Installation and Run Instructions: 
 Executing the script provided in the **Crowdfunding_ETL.ipynb** file will:
 
-### 1. Extract and transform the category and subcategory information contained in the **crowdfunding.xlsx** file into two separate Pandas DataFrames:
-
-
-
-
+1. Extract and transform the category and subcategory information contained in the **crowdfunding.xlsx** file into two separate Pandas DataFrames.
 2. Export these cleaned and transformed DataFrame into the **category.csv** and **subcategory.csv** files, respectively.
 3. Create a campaign DataFrame and export this into the **campaign.csv** file.
 4. Extract and transform the information from the **contacts.xlsx** file into a Pandas DataFrame
@@ -30,9 +26,7 @@ Executing the script provided in the **Crowdfunding_ETL.ipynb** file will:
 
 ### Entity Relationship Diagram (ERD):
 
-
 ![screenshot](https://github.com/riona1224/Crowdfunding_ETL/assets/156146173/451258c1-246b-4af3-9ce7-69ccdf04ed52)
-
 
 
 
