@@ -3,7 +3,15 @@ In this project, we created a ELT (Extract, Transform, and Load) pipeline to ana
 
 
 ## Project Description:
-At project commencement, raw data for each crowdfunding campaign (e.g., company name, fundraising foal, amount pledged, outcome, and number of backers) were contained in the **crowdfunding.xlsx** file. Raw data on each backer (e.g., names and email addresses) were provided  in the **contacts.xlsx** file. These are saved within the **Resources** sub-folder.
+At project commencement, raw data for each crowdfunding campaign (e.g., company name, fundraising foal, amount pledged, outcome, and number of backers) were contained in the **crowdfunding.xlsx** file:
+
+![screenshot1](https://github.com/riona1224/Crowdfunding_ETL/assets/156146173/e6cec063-1d98-4574-b6a1-d834ccb2756b)
+
+Raw data on each backer (e.g., names and email addresses) were provided in the **contacts.xlsx** file:
+
+![screenshot2](https://github.com/riona1224/Crowdfunding_ETL/assets/156146173/c8b613b7-78be-4851-9a93-e98c6941123e)
+
+These are saved within the **Resources** sub-folder.
 
 
 ## Installation and Run Instructions: 
