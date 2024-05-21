@@ -35,6 +35,7 @@ Executing the script provided in the **ETL_Mini_Project_Solved.ipynb** file will
 
 ### 5. Export this cleaned and transformed DataFrame into the **contacts.csv** file:
 
+![screenshot7](https://github.com/riona1224/Crowdfunding_ETL/assets/156146173/b0a6d203-f4ce-4a52-a3e8-9af8851ff791)
 
 
 ### 6. Create the **crowdfunding_db** by combining the **category.csv**, **subcategory.csv**, **campaign.csv**, and **contacts.csv** files:
@@ -49,6 +50,6 @@ Executing the script provided in the **ETL_Mini_Project_Solved.ipynb** file will
 
 
 ## Credits:
-This code was compiled and written by Riona Espedido, Vrinda Patel, Ben Mason, and Katrina Witt for the Project 2 Challenge in the 2024 Data Analytics Boot Camp hosted by Monash University. Additional credits are declared below:
+This code was compiled and written by Riona Espedido, Vrinda Patel, Ben Mason, and Katrina Witt for the Project 2 Challenge in the 2024 Data Analytics Boot Camp hosted by Monash University.
 
 
