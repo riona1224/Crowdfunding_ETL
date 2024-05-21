@@ -3,7 +3,7 @@ In this project, we created a ELT (Extract, Transform, and Load) pipeline to ana
 
 
 ## Project Description:
-At project commencement, raw data for each crowdfunding campaign (e.g., company name, fundraising foal, amount pledged, outcome, and number of backers) were contained in the **crowdfunding.xlsx** file:
+At project commencement, raw data for each crowdfunding campaign (e.g., company name, fundraising goal, amount pledged, outcome, and number of backers) were contained in the **crowdfunding.xlsx** file:
 
 ![screenshot1](https://github.com/riona1224/Crowdfunding_ETL/assets/156146173/e6cec063-1d98-4574-b6a1-d834ccb2756b)
 
@@ -45,8 +45,7 @@ Executing the script provided in the **ETL_Mini_Project_Solved.ipynb** file will
 
 ### Entity Relationship Diagram (ERD):
 
-![screenshot](https://github.com/riona1224/Crowdfunding_ETL/assets/156146173/451258c1-246b-4af3-9ce7-69ccdf04ed52)
-
+<img width="790" alt="Screenshot 2024-05-21 at 7 10 14 PM" src="https://github.com/riona1224/Crowdfunding_ETL/assets/69753431/a548c3b9-1386-4b66-a75a-2d04c6914737">
 
 
 ## Credits:
