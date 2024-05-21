@@ -15,7 +15,7 @@ These are saved within the **Resources** sub-folder.
 
 
 ## Installation and Run Instructions: 
-Executing the script provided in the **Crowdfunding_ETL.ipynb** file will:
+Executing the script provided in the **ETL_Mini_Project_REspedido_BMason_KWitt_PVrinda-Copy1.ipynb** file will:
 
 1. Extract and transform the category and subcategory information contained in the **crowdfunding.xlsx** file into two separate Pandas DataFrames.
 2. Export these cleaned and transformed DataFrame into the **category.csv** and **subcategory.csv** files, respectively.
