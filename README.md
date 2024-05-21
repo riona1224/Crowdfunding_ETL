@@ -15,14 +15,20 @@ These are saved within the **Resources** sub-folder.
 
 
 ## Installation and Run Instructions: 
-Executing the script provided in the **ETL_Mini_Project_REspedido_BMason_KWitt_PVrinda-Copy1.ipynb** file will:
+Executing the script provided in the **ETL_Mini_Project_Solved.ipynb** file will:
 
-1. Extract and transform the category and subcategory information contained in the **crowdfunding.xlsx** file into two separate Pandas DataFrames.
-2. Export these cleaned and transformed DataFrame into the **category.csv** and **subcategory.csv** files, respectively.
-3. Create a campaign DataFrame and export this into the **campaign.csv** file.
-4. Extract and transform the information from the **contacts.xlsx** file into a Pandas DataFrame
-5. Export this cleaned and transformed DataFrame into the **contacts.csv** file.
-6. Create the **crowdfunding_db** by combining the **category.csv**, **subcategory.csv**, **campaign.csv**, and **contacts.csv** files.
+### 1. Extract and transform the category and subcategory information contained in the **crowdfunding.xlsx** file into two separate Pandas DataFrames:
+
+![screenshot3](https://github.com/riona1224/Crowdfunding_ETL/assets/156146173/4d8058be-c223-42b1-be03-f8ef22029dc2)
+
+
+
+
+### 2. Export these cleaned and transformed DataFrame into the **category.csv** and **subcategory.csv** files, respectively.
+### 3. Create a campaign DataFrame and export this into the **campaign.csv** file.
+### 4. Extract and transform the information from the **contacts.xlsx** file into a Pandas DataFrame
+### 5. Export this cleaned and transformed DataFrame into the **contacts.csv** file.
+### 6. Create the **crowdfunding_db** by combining the **category.csv**, **subcategory.csv**, **campaign.csv**, and **contacts.csv** files.
 
 ### Entity Relationship Diagram (ERD):
 
