@@ -21,14 +21,25 @@ Executing the script provided in the **ETL_Mini_Project_Solved.ipynb** file will
 
 ![screenshot3](https://github.com/riona1224/Crowdfunding_ETL/assets/156146173/4d8058be-c223-42b1-be03-f8ef22029dc2)
 
+### 2. Export these cleaned and transformed DataFrame into the **category.csv** and **subcategory.csv** files, respectively:
+
+![screenshot4](https://github.com/riona1224/Crowdfunding_ETL/assets/156146173/6e3a63cf-7033-4e30-8761-59fc4b774806)
+
+### 3. Create a campaign DataFrame and export this into the **campaign.csv** file:
+
+![screenshot5](https://github.com/riona1224/Crowdfunding_ETL/assets/156146173/1f7f7045-ad68-4171-b924-4f7367abbca0)
+
+### 4. Extract and transform the information from the **contacts.xlsx** file into a Pandas DataFrame:
+
+![screenshot6](https://github.com/riona1224/Crowdfunding_ETL/assets/156146173/53f3079d-8a1e-44f9-807a-5108639f0b5f)
+
+### 5. Export this cleaned and transformed DataFrame into the **contacts.csv** file:
 
 
 
-### 2. Export these cleaned and transformed DataFrame into the **category.csv** and **subcategory.csv** files, respectively.
-### 3. Create a campaign DataFrame and export this into the **campaign.csv** file.
-### 4. Extract and transform the information from the **contacts.xlsx** file into a Pandas DataFrame
-### 5. Export this cleaned and transformed DataFrame into the **contacts.csv** file.
-### 6. Create the **crowdfunding_db** by combining the **category.csv**, **subcategory.csv**, **campaign.csv**, and **contacts.csv** files.
+### 6. Create the **crowdfunding_db** by combining the **category.csv**, **subcategory.csv**, **campaign.csv**, and **contacts.csv** files:
+
+
 
 ### Entity Relationship Diagram (ERD):
 
