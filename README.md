@@ -39,6 +39,7 @@ Executing the script provided in the **ETL_Mini_Project_Solved.ipynb** file will
 
 ### 6. Create the **crowdfunding_db** by combining the **category.csv**, **subcategory.csv**, **campaign.csv**, and **contacts.csv** files:
 
+![screenshot8](https://github.com/riona1224/Crowdfunding_ETL/assets/156146173/9d5966ea-6e56-4653-8ab9-7a6d134c5fa2)
 
 
 ### Entity Relationship Diagram (ERD):
